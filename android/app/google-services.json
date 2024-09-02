@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "804705700879",
+    "firebase_url": "https://vinner-308ca-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vinner-308ca",
+    "storage_bucket": "vinner-308ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804705700879:android:6824fa81c7daf37fb9e77a",
+        "android_client_info": {
+          "package_name": "com.egoncastle.users.vinner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvBpd0fbnh3aUQTU3B74n_M5IV8zGbrv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
